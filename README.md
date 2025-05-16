@@ -6,4 +6,4 @@ Learning Center menerapkan pendekatan berbasis non-formal dalam mendapatkan peng
 
 Learning Center didukung oleh berbagai sumber daya, termasuk dosen, mahasiswa, alumni hingga lembaga luar UM. Dengan dukungan ini, Learning Center dapat memberikan pengetahuan di luar dunia perkuliahan.
 
-[![Learning Center](/img/indoor-lc.jpg)]
+![Learning Center](/img/indoor-lc.jpg)
